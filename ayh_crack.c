@@ -1,3 +1,4 @@
+//Hamsatou Yansambou 
 #define _XOPEN_SOURCE
 #include <unistd.h>
 #include <stdio.h>
